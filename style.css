@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    margin-top: 100px;
+    background-color: #f0f8ff;
+}
+
+.dice {
+    display: inline-block;
+    align-items: center; 
+}
+img {
+    width: 80%;
+}
+
+.heading {
+    font-size: 5rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    color: #2b2d42;
+}
+
+h3 {
+    color: #333;
+}
+
+.sansita-bold-italic {
+  font-family: "Sansita", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.sansita-extrabold-italic {
+  font-family: "Sansita", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+}
+
+p {
+    filter: blur(1px); 
+    color: black;
+    margin-top: 50px;
+}
