@@ -3,7 +3,7 @@
 A fun and simple **2-player dice game** built with HTML, CSS, and JavaScript.  
 Refresh the page to roll the dice and see which player wins!
 
-🌐 **Live Demo**: [Play Roll The Dice](https://catheringino.github.io/Roll-The-Dice/)
+🌐 **Live Demo**: [Play Roll The Dice](https://catheringino.github.io/RollTheDice/)
 
 ---
 
@@ -28,7 +28,7 @@ Refresh the page to roll the dice and see which player wins!
 ---
 
 ## 🚀 How to Play
-1. Open the [Roll The Dice Game](https://catheringino.github.io/Roll-The-Dice/).
+1. Open the [Roll The Dice Game](https://catheringino.github.io/RollTheDice/).
 2. **Refresh the page** to roll the dice.
 3. See who wins based on the random rolls.
 
@@ -38,9 +38,9 @@ Refresh the page to roll the dice and see which player wins!
 If you want to run this project locally:
 ```bash
 # Clone the repository
-git clone https://github.com/CatherinGino/Roll-The-Dice.git
+git clone https://github.com/CatherinGino/RollTheDice.git
 
 # Open the folder
-cd Roll-The-Dice
+cd RollTheDice
 
 # Open index.html in your browser
